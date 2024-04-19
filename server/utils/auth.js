@@ -1,3 +1,5 @@
+// Requires the GraphQLError from the graphql package
+const { GraphQLError } = require('graphql');
 const jwt = require('jsonwebtoken');
 
 // set token secret and expiration date
