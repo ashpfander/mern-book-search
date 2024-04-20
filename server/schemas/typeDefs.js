@@ -31,6 +31,8 @@ const typeDefs = `
   }
 
   type Query {
+    users: [User]
+    user(username: String!): User
     me: User
   }
 
