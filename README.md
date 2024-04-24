@@ -48,19 +48,19 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 ## Deployed Application Link
-[MERN Book Search Engine Deployed Application]()
+[MERN Book Search Engine Deployed Application](https://mern-book-search-fp2s.onrender.com/)
 
 ## Screenshots of Application
 Landing page
-![Landing Page]()
+![Landing Page](./client/public/landing-page.png)
 Login/Signup
-![Login or Signup]()
+![Login or Signup](./client/public/login-signup.png)
 Book search results
-![Book search results]()
+![Book search results](./client/public/searched-book.png)
 Saved the book
-![Saved the book]()
+![Saved the book](./client/public/added-book.png)
 Profile/saved books page
-![Profile and saved books page]()
+![Profile and saved books page](./client/public/viewing-saved-books.png)
 
 ## Table of Contents
 
